@@ -14,3 +14,8 @@ The only difference is that I am using 100k potentiometers and a 10uF cap.
 
 
 ## PCB
+
+
+## Panel
+
+<img width="337" alt="image" src="https://user-images.githubusercontent.com/27863547/136839708-dc8634a9-5fb0-4edc-a62f-8a27121ab2a3.png">
