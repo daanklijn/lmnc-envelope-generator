@@ -1,6 +1,6 @@
 Comment,Designator,Footprint,LCSC Part #
 100k Potentiometer,"ATTACK1,ATTACK2",Potentiometer_Default_Vertical,
-10uF Unpolarized capacitor,"C1,C2",C_0805_2012Metric,
+10uF Unpolarized capacitor,"C1,C2,C3,C4,C5,C6,C7,C8",C_0805_2012Metric,
 "1N4148 100V 0.15A standard switching diode, DO-35","D1,D2,D3,D4,D5,D6,D7,D8",D_SOD-323F,
 "AudioJack2 Audio Jack, 2 Poles (Mono / TS)","IN1,IN2",Jack_3.5mm_Thonkiconn_Vertical,
 "Conn_Eurorack_5 Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",J1,IDC-Header_2x05_Eurorack,

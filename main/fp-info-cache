@@ -1,4 +1,4 @@
-19327358714626015
+19332266214962519
 2164_FRONT_PANEL
 frontpanel
 
@@ -51799,6 +51799,13 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
+GenerativeSequencer
+SW_Toggle_Blue_wSlots
+SW Toggle
+SW Toggle
+0
+3
+3
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -73037,6 +73044,13 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Panel
+panel
+
+
+0
+0
+0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -83495,6 +83509,13 @@ varistor SIOV
 0
 2
 2
+as3320_panel
+as3320_panel
+
+
+0
+0
+0
 panel
 panel
 

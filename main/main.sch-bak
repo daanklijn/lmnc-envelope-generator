@@ -218,10 +218,10 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4900 
 $EndComp
 Connection ~ 4900 2650
 $Comp
-L Device:R_POT RV2
+L Device:R_POT ATTACK1
 U 1 1 61674CA1
 P 4900 3100
-F 0 "RV2" H 4831 3146 50  0000 R CNN
+F 0 "ATTACK1" H 4831 3146 50  0000 R CNN
 F 1 "100k" H 4831 3055 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Default_Vertical" H 4900 3100 50  0001 C CNN
 F 3 "~" H 4900 3100 50  0001 C CNN
@@ -229,10 +229,10 @@ F 3 "~" H 4900 3100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_POT RV1
+L Device:R_POT RELEASE1
 U 1 1 616753D1
 P 4900 2200
-F 0 "RV1" H 4831 2246 50  0000 R CNN
+F 0 "RELEASE1" H 4831 2246 50  0000 R CNN
 F 1 "100k" H 4831 2155 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Default_Vertical" H 4900 2200 50  0001 C CNN
 F 3 "~" H 4900 2200 50  0001 C CNN
@@ -557,10 +557,10 @@ F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4950 
 $EndComp
 Connection ~ 4950 4400
 $Comp
-L Device:R_POT RV4
+L Device:R_POT ATTACK2
 U 1 1 61695DEE
 P 4950 4850
-F 0 "RV4" H 4881 4896 50  0000 R CNN
+F 0 "ATTACK2" H 4881 4896 50  0000 R CNN
 F 1 "100k" H 4881 4805 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Default_Vertical" H 4950 4850 50  0001 C CNN
 F 3 "~" H 4950 4850 50  0001 C CNN
@@ -568,10 +568,10 @@ F 3 "~" H 4950 4850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_POT RV3
+L Device:R_POT RELEASE2
 U 1 1 61695DF4
 P 4950 3950
-F 0 "RV3" H 4881 3996 50  0000 R CNN
+F 0 "RELEASE2" H 4881 3996 50  0000 R CNN
 F 1 "100k" H 4881 3905 50  0000 R CNN
 F 2 "Potentiometer_THT:Potentiometer_Default_Vertical" H 4950 3950 50  0001 C CNN
 F 3 "~" H 4950 3950 50  0001 C CNN
