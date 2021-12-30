@@ -1,6 +1,6 @@
 # lmnc-envelope-generator
 
-⚠️ THIS PCB HAS NOT BEEN TESTED AND VERIFIED YET ⚠️
+✅ PCB built and tested ✅
 
 PCB design for a dual LMNC envelope generator eurorack module.
 Schematic is based on [the one used by LMNC](https://www.lookmumnocomputer.com/projects#/simple-envelope-generator).
