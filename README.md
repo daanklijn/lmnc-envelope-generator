@@ -4,7 +4,7 @@
 
 PCB design for a dual LMNC envelope generator eurorack module.
 Schematic is based on [the one used by LMNC](https://www.lookmumnocomputer.com/projects#/simple-envelope-generator).
-The only difference is that I am using 100k potentiometers and a 10uF cap.
+The only difference is that I am using 100k potentiometers and five 10uF caps.
 
 
 
